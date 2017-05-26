@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=nome\ raca\ sexo\ patas
+comment0.target=Animal(java.lang.String,\ java.lang.String,\ char,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=
+comment2.target=java.lang.String\ getRaca()
+comment3.params=
+comment3.target=char\ getSexo()
+comment4.params=
+comment4.target=int\ getPatas()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=raca
+comment6.target=void\ setRaca(java.lang.String)
+comment7.params=sexo
+comment7.target=void\ setSexo(char)
+comment8.params=patas
+comment8.target=void\ setPatas(int)
+comment9.params=
+comment9.target=void\ imprimeInformacoes()
+numComments=10

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=nome\ serie\ quantTorcedores\ quantTitulos\ mascote\ rendaAtual
+comment1.target=Time(java.lang.String,\ int,\ int,\ int,\ Mascote,\ double)
+numComments=2

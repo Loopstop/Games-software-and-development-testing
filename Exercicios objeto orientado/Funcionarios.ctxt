@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Funcionarios
+comment1.params=nome\ idade\ altura\ sexo\ sobrenome
+comment1.target=Funcionarios(java.lang.String,\ int,\ double,\ char,\ java.lang.String)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Supermercado
+comment1.params=nome\ alturaMetros\ alturaCM\ dataNasci\ sobrenome
+comment1.target=Supermercado(java.lang.String,\ int,\ double,\ java.lang.String,\ java.lang.String)
+numComments=2

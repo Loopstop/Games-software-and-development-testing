@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Casa
+comment1.params=quantJanelas\ quantComodos\ cor
+comment1.target=Casa(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCor()
+comment2.text=\ \r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ visibilidade\ tipo_de_retorno\ nome_m\u00E9todo(par\u00E2metros){\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \r\n
+comment3.params=
+comment3.target=int\ getQuantJanelas()
+comment4.params=
+comment4.target=int\ getQuantComodos()
+comment5.params=novaCor
+comment5.target=void\ setCor(java.lang.String)
+comment6.params=quantJanelas
+comment6.target=void\ setQuantJanelas(int)
+comment7.params=quantComodos
+comment7.target=void\ setQuantComodos(int)
+comment8.params=
+comment8.target=void\ imprimeInfo()
+numComments=9

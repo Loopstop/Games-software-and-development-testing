@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Exercicios
+comment1.params=x
+comment1.target=void\ imprimeValores(int)
+comment2.params=x\ y
+comment2.target=double\ maiorValorDoisValores(double,\ double)
+comment3.params=x\ y\ z
+comment3.target=double\ maiorValorTresValores(double,\ double,\ double)
+comment4.params=x
+comment4.target=boolean\ verificaPositivo(int)
+comment5.params=x
+comment5.target=int\ calculaFatorial(int)
+comment6.params=x\ y\ z\ w\ c\ soma\ media
+comment6.target=double\ mediaValores(int,\ double,\ int,\ double,\ double,\ double,\ double)
+numComments=7
